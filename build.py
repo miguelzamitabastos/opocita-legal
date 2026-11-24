@@ -18,7 +18,7 @@ DATOS = {
     '{{NIF}}': '23822057Z',
     '{{DOMICILIO}}': 'Calle Rodrigo Canto 31, 1º, 46133 Meliana (Valencia)',
     '{{CORREO}}': 'soporteopocita@gmail.com',
-    '{{FECHA}}': '1 de noviembre de 2026',
+    '{{FECHA}}': '24 de noviembre de 2026',
 }
 
 PAGINAS = [  # (fichero md, carpeta de salida)
